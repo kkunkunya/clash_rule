@@ -1,0 +1,26 @@
+# Gemini
+# DOMAIN,generativelanguage.googleapis.com
+DOMAIN-KEYWORD,generativelanguage
+# DOMAIN,colab.research.google.com
+DOMAIN-KEYWORD,colab
+DOMAIN-SUFFIX,apis.google.com
+# DOMAIN,content-developerprofiles-pa.googleapis.com
+DOMAIN-KEYWORD,developerprofiles
+# 内容：OpenAi
+# 数量：16条
+DOMAIN-KEYWORD,openai
+DOMAIN-SUFFIX,auth0.com
+DOMAIN-SUFFIX,challenges.cloudflare.com
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,client-api.arkoselabs.com
+DOMAIN-SUFFIX,events.statsigapi.net
+DOMAIN-SUFFIX,featuregates.org
+DOMAIN-SUFFIX,identrust.com
+DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,intercomcdn.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,openaiapi-site.azureedge.net
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,stripe.com
