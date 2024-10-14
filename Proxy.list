@@ -10,3 +10,5 @@ DOMAIN-SUFFIX,cdn.oaistatic.com
 DOMAIN-SUFFIX,auth.openai
 DOMAIN-SUFFIX,filecove.com
 DOMAIN-SUFFIX,missav.com
+DOMAIN-SUFFIX,api.sprig.com
+DOMAIN-SUFFIX,engine-consumer-api.cloud.gist.build
