@@ -11,75 +11,20 @@ DOMAIN-SUFFIX,filecove.com
 DOMAIN-SUFFIX,missav.com
 DOMAIN-SUFFIX,api.sprig.com
 DOMAIN-SUFFIX,engine-consumer-api.cloud.gist.build
-# NAME: Copilot
-# AUTHOR: blackmatrix7
-# REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-07-03 16:18:30
-# HOST: 20
-# HOST-KEYWORD: 1
-# HOST-SUFFIX: 26
-# IP-ASN: 2
-# IP-CIDR: 2
-# TOTAL: 51
-HOST,api.msn.com,Copilot
-HOST,api.statsig.com,Copilot
-HOST,assets.msn.com,Copilot
-HOST,browser-intake-datadoghq.com,Copilot
-HOST,chat.openai.com.cdn.cloudflare.net,Copilot
-HOST,copilot.microsoft.com,Copilot
-HOST,gateway.bingviz.microsoft.net,Copilot
-HOST,gateway.bingviz.microsoftapp.net,Copilot
-HOST,in.appcenter.ms,Copilot
-HOST,location.microsoft.com,Copilot
-HOST,odc.officeapps.live.com,Copilot
-HOST,openai-api.arkoselabs.com,Copilot
-HOST,openaicomproductionae4b.blob.core.windows.net,Copilot
-HOST,production-openaicom-storage.azureedge.net,Copilot
-HOST,r.bing.com,Copilot
-HOST,self.events.data.microsoft.com,Copilot
-HOST,services.bingapis.com,Copilot
-HOST,static.cloudflareinsights.com,Copilot
-HOST,sydney.bing.com,Copilot
-HOST,www.bing.com,Copilot
-HOST-SUFFIX,algolia.net,Copilot
-HOST-SUFFIX,api.microsoftapp.net,Copilot
-HOST-SUFFIX,auth0.com,Copilot
-HOST-SUFFIX,bing-shopping.microsoft-falcon.io,Copilot
-HOST-SUFFIX,challenges.cloudflare.com,Copilot
-HOST-SUFFIX,chatgpt.com,Copilot
-HOST-SUFFIX,chatgpt.livekit.cloud,Copilot
-HOST-SUFFIX,client-api.arkoselabs.com,Copilot
-HOST-SUFFIX,edgeservices.bing.com,Copilot
-HOST-SUFFIX,events.statsigapi.net,Copilot
-HOST-SUFFIX,featuregates.org,Copilot
-HOST-SUFFIX,host.livekit.cloud,Copilot
-HOST-SUFFIX,identrust.com,Copilot
-HOST-SUFFIX,intercom.io,Copilot
-HOST-SUFFIX,intercomcdn.com,Copilot
-HOST-SUFFIX,launchdarkly.com,Copilot
-HOST-SUFFIX,oaistatic.com,Copilot
-HOST-SUFFIX,oaiusercontent.com,Copilot
-HOST-SUFFIX,observeit.net,Copilot
-HOST-SUFFIX,openai.com,Copilot
-HOST-SUFFIX,openaiapi-site.azureedge.net,Copilot
-HOST-SUFFIX,openaicom.imgix.net,Copilot
-HOST-SUFFIX,segment.io,Copilot
-HOST-SUFFIX,sentry.io,Copilot
-HOST-SUFFIX,stripe.com,Copilot
-HOST-SUFFIX,turn.livekit.cloud,Copilot
-HOST-KEYWORD,openaicom-api,Copilot
-IP-CIDR,24.199.123.28/32,Copilot
-IP-CIDR,64.23.132.171/32,Copilot
+- DOMAIN-SUFFIX,msxiaobing.com,Microsoft
+- DOMAIN-SUFFIX,bing.com,Microsoft
+- DOMAIN-SUFFIX,bing123.com,Microsoft
+- DOMAIN-SUFFIX,bing135.com,Microsoft
+- DOMAIN-SUFFIX,bing4.com,Microsoft
+- DOMAIN-SUFFIX,bing.com.bo,Microsoft
+- DOMAIN-SUFFIX,bing.com.co,Microsoft
+- DOMAIN-SUFFIX,bing.com.cy,Microsoft
+- DOMAIN-SUFFIX,bing.com.gt,Microsoft
+- DOMAIN-SUFFIX,bing.jp,Microsoft
+- DOMAIN-SUFFIX,bing.cn,Microsoft
+- DOMAIN-SUFFIX,bing.net,Microsoft
+- DOMAIN-SUFFIX,bingapis.com,Microsoft
+- DOMAIN-SUFFIX,bingforbusiness.com,Microsoft
 IP-ASN,14061,Copilot
 IP-ASN,20473,Copilot
-access-point.cloudmessaging.edge.microsoft.com，域名模式
-sydney.bing.com，域名模式
-browser.pipe.aria.microsoft.com，域名模式
-www.bingapis.com，域名模式
-events.data.microsoft.com，域名后缀模式
-prod.do.dsp.mp.microsoft.com，域名后缀模式
-functional.events.data.microsoft.com，域名模式
-designer.microsoft.com，域名模式
-edge.microsoft.com，域名模式
-copilot.microsoft.com，域名模式
-edgeservices.bing.com，域名模式
+
