@@ -6,25 +6,8 @@ DOMAIN-KEYWORD,notion
 DOMAIN-SUFFIX,notion.so
 DOMAIN-SUFFIX,notionusercontent
 DOMAIN-SUFFIX,cdn.oaistatic.com
-DOMAIN-SUFFIX,auth.openai
 DOMAIN-SUFFIX,filecove.com
 DOMAIN-SUFFIX,missav.com
 DOMAIN-SUFFIX,api.sprig.com
 DOMAIN-SUFFIX,engine-consumer-api.cloud.gist.build
-DOMAIN-SUFFIX,msxiaobing.com,Microsoft
-DOMAIN-SUFFIX,bing.com,Microsoft
-DOMAIN-SUFFIX,bing123.com,Microsoft
-DOMAIN-SUFFIX,bing135.com,Microsoft
-DOMAIN-SUFFIX,bing4.com,Microsoft
-DOMAIN-SUFFIX,bing.com.bo,Microsoft
-DOMAIN-SUFFIX,bing.com.co,Microsoft
-DOMAIN-SUFFIX,bing.com.cy,Microsoft
-DOMAIN-SUFFIX,bing.com.gt,Microsoft
-DOMAIN-SUFFIX,bing.jp,Microsoft
-DOMAIN-SUFFIX,bing.cn,Microsoft
-DOMAIN-SUFFIX,bing.net,Microsoft
-DOMAIN-SUFFIX,bingapis.com,Microsoft
-DOMAIN-SUFFIX,bingforbusiness.com,Microsoft
-IP-ASN,14061,Copilot
-IP-ASN,20473,Copilot
 
