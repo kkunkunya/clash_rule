@@ -37,3 +37,6 @@ DOMAIN-SUFFIX,bingforbusiness.com
 DOMAIN-SUFFIX,auth.openai
 IP-ASN,14061,Copilot
 IP-ASN,20473,Copilot
+DOMAIN-SUFFIX,chat-preview.lobehub.com
+DOMAIN-KEYWORD,lobe
+
