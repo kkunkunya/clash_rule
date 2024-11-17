@@ -1,5 +1,6 @@
 DOMAIN-KEYWORD,generativelanguage
 DOMAIN-KEYWORD,colab
+DOMAIN-KEYWORD,cursor
 DOMAIN-SUFFIX,apis.google.com
 DOMAIN-KEYWORD,openai
 DOMAIN-SUFFIX,auth0.com
@@ -35,6 +36,8 @@ DOMAIN-SUFFIX,bing.net
 DOMAIN-SUFFIX,bingapis.com
 DOMAIN-SUFFIX,bingforbusiness.com
 DOMAIN-SUFFIX,auth.openai
+DOMAIN-SUFFIX,cursor.sh
+DOMAIN-SUFFIX,cursor-cdn.com
 IP-ASN,14061,Copilot
 IP-ASN,20473,Copilot
 DOMAIN-SUFFIX,chat-preview.lobehub.com
