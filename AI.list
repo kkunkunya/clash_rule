@@ -3,6 +3,7 @@ DOMAIN-KEYWORD,colab
 DOMAIN-KEYWORD,cursor
 DOMAIN-SUFFIX,apis.google.com
 DOMAIN-KEYWORD,openai
+DOMAIN-KEYWORD,groq
 DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,challenges.cloudflare.com
 DOMAIN-SUFFIX,chatgpt.com
@@ -42,4 +43,8 @@ IP-ASN,14061,Copilot
 IP-ASN,20473,Copilot
 DOMAIN-SUFFIX,chat-preview.lobehub.com
 DOMAIN-KEYWORD,lobe
+DOMAIN-SUFFIX,groq.com
+DOMAIN-SUFFIX,console.groq.com
+
+
 
