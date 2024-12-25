@@ -1,4 +1,8 @@
 DOMAIN-KEYWORD,openai
+DOMAIN-KEYWORD,gemini
+DOMAIN-KEYWORD,ai
+DOMAIN-KEYWORD,AI
+DOMAIN-KEYWORD,doubao
 DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,challenges.cloudflare.com
 DOMAIN-SUFFIX,chatgpt.com
@@ -32,5 +36,7 @@ DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
 DOMAIN-SUFFIX,apis.google.com
 DOMAIN-SUFFIX,aistudio.google.com
 DOMAIN-SUFFIX,ai.google.dev
+DOMAIN-SUFFIX,doubao.com
+
 
 
