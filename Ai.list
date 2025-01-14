@@ -12,7 +12,6 @@ DOMAIN,colab.research.google.com
 DOMAIN,generativelanguage.googleapis.com
 DOMAIN,content-developerprofiles-pa.googleapis.com
 DOMAIN-SUFFIX,auth0.com
-DOMAIN-SUFFIX,challenges.cloudflare.com
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,client-api.arkoselabs.com
 DOMAIN-SUFFIX,events.statsigapi.net
