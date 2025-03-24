@@ -7,6 +7,7 @@ DOMAIN-KEYWORD,developerprofiles
 DOMAIN-KEYWORD,generativelanguage
 DOMAIN-KEYWORD,aistudio
 DOMAIN-KEYWORD,cursor
+DOMAIN-KEYWORD,perplexity
 DOMAIN,ai.google.dev
 DOMAIN,alkalimakersuite-pa.clients6.google.com
 DOMAIN,makersuite.google.com
@@ -44,7 +45,7 @@ DOMAIN-SUFFIX,monica.im
 DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,cursor-cdn.com
 DOMAIN-SUFFIX,cursor.com
-DOMAIN-SUFFIX,.gallerycdn.vsassets.io
-
-
+DOMAIN-SUFFIX,gallerycdn.vsassets.io
+DOMAIN-SUFFIX,perplexity.ai
+DOMAIN-SUFFIX,pplx.ai
 
